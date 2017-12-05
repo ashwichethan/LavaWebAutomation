@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1512454996163" stop="1512455006463" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Regression suite : Login into Dashboard</name>
+    <title>Regression suite : Login into Dashboard</title>
+    <test-cases>
+        <test-case start="1512454996165" stop="1512455005143" status="passed">
+            <name>ableToLogin</name>
+            <title>Verify Able to Login</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testId" value="TMS-1"/>
+                <label name="host" value="Srinivas.local"/>
+                <label name="thread" value="1925@Srinivas.local.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

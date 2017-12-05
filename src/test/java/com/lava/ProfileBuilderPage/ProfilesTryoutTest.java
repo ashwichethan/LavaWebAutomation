@@ -30,6 +30,8 @@ public class ProfilesTryoutTest extends TestBase {
         Assert.assertTrue(Pages.DragAndDropEngagmentPage().dragAndDropEngagments("Create New Engagement", "MOBILE IN APP NOTIFICATION"), "Failed to drag Engagements");
         Assert.assertTrue(Pages.CreateEngagementsInMomentsPage().createEngagements(), "Failed to create Engagements in moments page");
         Assert.assertTrue(Pages.CreateNewMomentPage().momentTitle(), "Failed to add moment title");
+        //Assert.assertTrue(Pages.CreateNewMomentPage().momentTitle(), "Failed to add moment title");
+
 
         Assert.assertTrue(Pages.ProfileStatusCheck().navigateToProfilesPage(), "Failed to navigate profiles page");
         Assert.assertEquals(Pages.ProfileStatusCheck().profileStatus(),"status-in-draft", "Profile status should be IN-DRAFT state");

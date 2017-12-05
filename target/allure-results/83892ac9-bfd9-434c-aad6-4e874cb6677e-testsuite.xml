@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1512454989243" stop="1512454995611" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Regression suite : Launch Website</name>
+    <title>Regression suite : Launch Website</title>
+    <test-cases>
+        <test-case start="1512454989317" stop="1512454989835" status="passed">
+            <name>InitialSetup</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testId" value="TMS-1"/>
+                <label name="feature" value="Launch app"/>
+                <label name="host" value="Srinivas.local"/>
+                <label name="thread" value="1925@Srinivas.local.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
