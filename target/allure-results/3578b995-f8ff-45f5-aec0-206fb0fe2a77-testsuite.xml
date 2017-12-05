@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1501072759151" stop="1501072780339" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Regression suite : Slide bar validation</name>
+    <title>Regression suite : Slide bar validation</title>
+    <test-cases>
+        <test-case start="1501072759153" stop="1501072759857" status="passed">
+            <name>AnalyzePagesVerificationTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Susmitha-Mac-mini.local"/>
+                <label name="thread" value="2099@Susmitha-Mac-mini.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1501072760463" stop="1501072760733" status="passed">
+            <name>DesignPagesVerificationTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Susmitha-Mac-mini.local"/>
+                <label name="thread" value="2099@Susmitha-Mac-mini.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1501072761084" stop="1501072779329" status="passed">
+            <name>HomePagesVerificationTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Susmitha-Mac-mini.local"/>
+                <label name="thread" value="2099@Susmitha-Mac-mini.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1501072779663" stop="1501072780058" status="passed">
+            <name>ResourcePagesVerificationTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Susmitha-Mac-mini.local"/>
+                <label name="thread" value="2099@Susmitha-Mac-mini.local.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

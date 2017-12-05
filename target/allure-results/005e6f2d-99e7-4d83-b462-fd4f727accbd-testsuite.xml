@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1501823341877" stop="1501823790527" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Regression suite : Geolocation Builder test</name>
+    <title>Regression suite : Geolocation Builder test</title>
+    <test-cases>
+        <test-case start="1501823341879" stop="1501823433971" status="passed">
+            <name>ableToCreateGeolocations</name>
+            <title>Verify Able to create Geolocations for moments</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testId" value="TMS-7"/>
+                <label name="host" value="Susmitha-Mac-mini.local"/>
+                <label name="thread" value="1241@Susmitha-Mac-mini.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1501823434175" stop="1501823541227" status="passed">
+            <name>ableToDeleteGeolocations</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Susmitha-Mac-mini.local"/>
+                <label name="thread" value="1241@Susmitha-Mac-mini.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1501823541419" stop="1501823787961" status="passed">
+            <name>ableTogetTooltipOfGeolocations</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Susmitha-Mac-mini.local"/>
+                <label name="thread" value="1241@Susmitha-Mac-mini.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1501823788412" stop="1501823788560" status="passed">
+            <name>geolocationPageValidation</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Susmitha-Mac-mini.local"/>
+                <label name="thread" value="1241@Susmitha-Mac-mini.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1501823788803" stop="1501823788864" status="passed">
+            <name>geolocationPageAddBtnValidation</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Susmitha-Mac-mini.local"/>
+                <label name="thread" value="1241@Susmitha-Mac-mini.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1501823789045" stop="1501823789104" status="passed">
+            <name>geolocationPageSyncBtnValidation</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Susmitha-Mac-mini.local"/>
+                <label name="thread" value="1241@Susmitha-Mac-mini.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1501823789315" stop="1501823789498" status="passed">
+            <name>geolocationPageStatusValidation</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Susmitha-Mac-mini.local"/>
+                <label name="thread" value="1241@Susmitha-Mac-mini.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1501823789712" stop="1501823789854" status="passed">
+            <name>geolocationPageColumnNameValidation</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Susmitha-Mac-mini.local"/>
+                <label name="thread" value="1241@Susmitha-Mac-mini.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1501823790038" stop="1501823790069" status="passed">
+            <name>geolocationPageSortBtnValidation</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Susmitha-Mac-mini.local"/>
+                <label name="thread" value="1241@Susmitha-Mac-mini.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1501823790260" stop="1501823790314" status="passed">
+            <name>geolocationPageUserToggleValidation</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Susmitha-Mac-mini.local"/>
+                <label name="thread" value="1241@Susmitha-Mac-mini.local.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

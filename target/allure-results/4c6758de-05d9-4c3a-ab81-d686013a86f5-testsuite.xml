@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1510293874986" stop="1510294063421" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Regression suite : Set schedule in Moment</name>
+    <title>Regression suite : Set schedule in Moment</title>
+    <test-cases>
+        <test-case start="1510293875003" stop="1510294063225" status="passed">
+            <name>setSchedule[Presence,Enter/exit Area,Enter,Virtual,Everyone,Every Customer,GENERAL,Always True,Mobile in app notification,test a mobile]</name>
+            <title>Create Moments for Area</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testId" value="TMS-3"/>
+                <label name="host" value="Srinivas.local"/>
+                <label name="thread" value="951@Srinivas.local.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1500898580873" stop="1500898650950" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : lava</name>
+    <title>Default Suite : lava</title>
+    <test-cases>
+        <test-case start="1500898581073" stop="1500898650878" status="passed">
+            <name>MomentViewTest</name>
+            <title>Verify moments cards dashboard </title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testId" value="TMS-6"/>
+                <label name="host" value="Susmitha-Mac-mini.local"/>
+                <label name="thread" value="2146@Susmitha-Mac-mini.local.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

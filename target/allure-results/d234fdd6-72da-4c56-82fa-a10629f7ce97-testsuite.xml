@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1502358155339" stop="1502358170117" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : lava</name>
+    <title>Default Suite : lava</title>
+    <test-cases>
+        <test-case start="1502358155409" stop="1502358168356" status="passed">
+            <name>ComposeMail</name>
+            <title>Verify Able to create rebate tables for moments</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testId" value="TMS-8"/>
+                <label name="host" value="Susmitha-Mac-mini.local"/>
+                <label name="thread" value="1202@Susmitha-Mac-mini.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1502358168490" stop="1502358170088" status="passed">
+            <name>attachFile</name>
+            <title>Verify Able to create rebate tables for moments</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testId" value="TMS-8"/>
+                <label name="host" value="Susmitha-Mac-mini.local"/>
+                <label name="thread" value="1202@Susmitha-Mac-mini.local.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

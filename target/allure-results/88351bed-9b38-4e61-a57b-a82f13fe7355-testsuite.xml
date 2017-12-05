@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1501075214205" stop="1501075526452" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Regression suite :  Rebate table</name>
+    <title>Regression suite :  Rebate table</title>
+    <test-cases>
+        <test-case start="1501075214372" stop="1501075280179" status="passed">
+            <name>ableToCreateRebateTables</name>
+            <title>Verify Able to create rebate tables for moments</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testId" value="TMS-8"/>
+                <label name="host" value="Susmitha-Mac-mini.local"/>
+                <label name="thread" value="2099@Susmitha-Mac-mini.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1501075280353" stop="1501075296693" status="passed">
+            <name>ableToEditRebateTables</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Susmitha-Mac-mini.local"/>
+                <label name="thread" value="2099@Susmitha-Mac-mini.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1501075296852" stop="1501075315266" status="passed">
+            <name>ableToViewRebateTables</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Susmitha-Mac-mini.local"/>
+                <label name="thread" value="2099@Susmitha-Mac-mini.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1501075315428" stop="1501075331902" status="passed">
+            <name>ableToCopyRebateTables</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Susmitha-Mac-mini.local"/>
+                <label name="thread" value="2099@Susmitha-Mac-mini.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1501075332094" stop="1501075332300" status="passed">
+            <name>rebateTableStatusiconValidation</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Susmitha-Mac-mini.local"/>
+                <label name="thread" value="2099@Susmitha-Mac-mini.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1501075332472" stop="1501075332709" status="passed">
+            <name>rebateTableColumnsValidation</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Susmitha-Mac-mini.local"/>
+                <label name="thread" value="2099@Susmitha-Mac-mini.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1501075332849" stop="1501075332880" status="passed">
+            <name>rebateTableColumnsSortBtnValidation</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Susmitha-Mac-mini.local"/>
+                <label name="thread" value="2099@Susmitha-Mac-mini.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1501075333032" stop="1501075333081" status="passed">
+            <name>rebateTableUserNameToggleValidation</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Susmitha-Mac-mini.local"/>
+                <label name="thread" value="2099@Susmitha-Mac-mini.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1501075333250" stop="1501075442105" status="passed">
+            <name>rebateTableStatusCheck</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Susmitha-Mac-mini.local"/>
+                <label name="thread" value="2099@Susmitha-Mac-mini.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1501075442247" stop="1501075526307" status="passed">
+            <name>ableToDeleteRebateTables</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Susmitha-Mac-mini.local"/>
+                <label name="thread" value="2099@Susmitha-Mac-mini.local.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1503478388830" stop="1503478544640" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Regression suite : Create Moment for Color Sequence</name>
+    <title>Regression suite : Create Moment for Color Sequence</title>
+    <test-cases>
+        <test-case start="1503478388834" stop="1503478424679" status="passed">
+            <name>navigateToCreateMomentsPage</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testId" value="TMS-4"/>
+                <label name="host" value="Susmitha-Mac-mini.local"/>
+                <label name="thread" value="4605@Susmitha-Mac-mini.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1503478424891" stop="1503478436764" status="passed">
+            <name>dragAndDropTrigger[Mobile &amp; Web,Click mobile app page]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Susmitha-Mac-mini.local"/>
+                <label name="thread" value="4605@Susmitha-Mac-mini.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1503478436960" stop="1503478450298" status="passed">
+            <name>dragAndDropProfiles[Everyone,Every Customer]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Susmitha-Mac-mini.local"/>
+                <label name="thread" value="4605@Susmitha-Mac-mini.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1503478450491" stop="1503478456585" status="passed">
+            <name>dragAndDropQualifiers[Behaviors,Clickstream Sequence]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Susmitha-Mac-mini.local"/>
+                <label name="thread" value="4605@Susmitha-Mac-mini.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1503478456806" stop="1503478464603" status="passed">
+            <name>chooseColorSequence[Blue,Green,Red,Red]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Susmitha-Mac-mini.local"/>
+                <label name="thread" value="4605@Susmitha-Mac-mini.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1503478464828" stop="1503478477175" status="passed">
+            <name>dragAndDropEngagments[Mobile in app notification,test a mobile]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Susmitha-Mac-mini.local"/>
+                <label name="thread" value="4605@Susmitha-Mac-mini.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1503478477382" stop="1503478544363" status="passed">
+            <name>addMomentTitle</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Susmitha-Mac-mini.local"/>
+                <label name="thread" value="4605@Susmitha-Mac-mini.local.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

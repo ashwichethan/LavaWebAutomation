@@ -1,0 +1,3 @@
+README:
+
+Glosi Automation Project

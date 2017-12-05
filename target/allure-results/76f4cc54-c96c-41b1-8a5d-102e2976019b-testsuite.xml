@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1504602757281" stop="1504602904235" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Regression suite : Create Moment for Area</name>
+    <title>Regression suite : Create Moment for Area</title>
+    <test-cases>
+        <test-case start="1504602757401" stop="1504602903925" status="passed">
+            <name>createMomentsForArea[Presence,Enter/exit Area,Enter,Virtual,Everyone,Every Customer,GENERAL,Always True,Mobile in app notification,test a mobile]</name>
+            <title>Create Moments for Area</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testId" value="TMS-3"/>
+                <label name="host" value="Susmitha-Mac-mini.local"/>
+                <label name="thread" value="3241@Susmitha-Mac-mini.local.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

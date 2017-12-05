@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1500960401793" stop="1500960441479" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Regression suite : CMS Test</name>
+    <title>Regression suite : CMS Test</title>
+    <test-cases>
+        <test-case start="1500960401794" stop="1500960421361" status="passed">
+            <name>ableToAddMediaFiles</name>
+            <title>Verify Able to add media files</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testId" value="TMS-7"/>
+                <label name="host" value="Susmitha-Mac-mini.local"/>
+                <label name="thread" value="3443@Susmitha-Mac-mini.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500960421516" stop="1500960441347" status="passed">
+            <name>ableToDeleteMediaFiles</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Susmitha-Mac-mini.local"/>
+                <label name="thread" value="3443@Susmitha-Mac-mini.local.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

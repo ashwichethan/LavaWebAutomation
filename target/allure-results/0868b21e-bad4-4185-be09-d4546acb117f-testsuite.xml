@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1500887897087" stop="1500887955985" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Regression suite : Login into Dashboard</name>
+    <title>Regression suite : Login into Dashboard</title>
+    <test-cases>
+        <test-case start="1500887897087" stop="1500887955985" status="broken">
+            <name>ableToLogin</name>
+            <title>Verify Able to Login</title>
+            <failure>
+                <message>Test was interrupted</message>
+            </failure>
+            <labels>
+                <label name="testId" value="TMS-1"/>
+                <label name="host" value="Susmitha-Mac-mini.local"/>
+                <label name="thread" value="1777@Susmitha-Mac-mini.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500887897087" stop="1500887955985" status="broken">
+            <name>Regression suite : Login into Dashboard</name>
+            <title>Regression suite : Login into Dashboard</title>
+            <failure>
+                <message>Test suite was interrupted, some test cases may be lost</message>
+            </failure>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

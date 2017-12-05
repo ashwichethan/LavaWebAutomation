@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1501586869862" stop="1501586968957" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Regression suite : Add remove nodes in Moment</name>
+    <title>Regression suite : Add remove nodes in Moment</title>
+    <test-cases>
+        <test-case start="1501586869883" stop="1501586968957" status="broken">
+            <name>adddAndRemoveNodes[Presence,Enter/exit Area,Enter,Virtual,Everyone,Every Customer,GENERAL,Always True,Mobile in app notification,test a mobile]</name>
+            <title>Create Moments for Area</title>
+            <failure>
+                <message>Test was interrupted</message>
+            </failure>
+            <labels>
+                <label name="testId" value="TMS-3"/>
+                <label name="host" value="Susmitha-Mac-mini.local"/>
+                <label name="thread" value="3435@Susmitha-Mac-mini.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1501586869862" stop="1501586968957" status="broken">
+            <name>Regression suite : Add remove nodes in Moment</name>
+            <title>Regression suite : Add remove nodes in Moment</title>
+            <failure>
+                <message>Test suite was interrupted, some test cases may be lost</message>
+            </failure>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

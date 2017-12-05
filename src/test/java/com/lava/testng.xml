@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression suite" verbose="10">
+
+    <listeners>
+        <listener class-name="com.lava.base.TestListener"></listener>
+    </listeners>
+    <test name="Launch Website">
+        <classes>
+            <class name="com.lava.GeneralSetup"/>
+        </classes>
+    </test>
+    <test name="Login into Dashboard">
+        <classes>
+            <class name="com.lava.loginpage.LoginPageTest"/>
+        </classes>
+    </test>
+    <test name="Slide bar validation">
+        <classes>
+            <class name="com.lava.homepage.SlidebarTest"/>
+        </classes>
+    </test>
+    <test name="Home page validation">
+        <classes>
+            <class name="com.lava.homepage.HomePageTest"/>
+        </classes>
+    </test>
+    <test name="Create Moment for Area">
+        <classes>
+            <class name="com.lava.createmomentforarea.CreateMomentAreaTest"/>
+        </classes>
+    </test>
+    <test name="Create Moment for Color Sequence">
+        <classes>
+            <class name="com.lava.createmomentforcolorsequence.CreateMomentColorSequenceTest"/>
+        </classes>
+    </test>
+    <test name="Create Prioritized Group in moment">
+        <classes>
+            <class name="com.lava.momentspage.CreatePrioritizedGroupTest"/>
+        </classes>
+    </test>
+
+    <test name="Add remove nodes in Moment">
+        <classes>
+            <class name="com.lava.momentspage.AddandRemoveNodeTest"/>
+        </classes>
+    </test>
+    <test name="Set schedule in Moment">
+        <classes>
+            <class name="com.lava.momentspage.SetScheduleTest"/>
+        </classes>
+    </test>
+    <test name="Create Profile and Engagements in Moment Creation page">
+        <classes>
+            <class name="com.lava.momentspage.CreateProfileAndEngagementInMomentTest"/>
+        </classes>
+    </test>
+    <test name="Moments View Test">
+        <classes>
+            <class name="com.lava.momentscardspage.MomentsViewTest"/>
+        </classes>
+    </test>
+    <test name="Moments Cards Test">
+        <classes>
+            <class name="com.lava.momentscardspage.MomentsCardsTest"/>
+        </classes>
+    </test>
+    <test name="Delete Moments">
+        <classes>
+            <class name="com.lava.DeleteMomentsPage.DeleteMomentsTest"/>
+        </classes>
+    </test>
+
+    <test name="Profile Builder test">
+        <classes>
+            <class name="com.lava.ProfileBuilderPage.ProfilesBuilderTest"/>
+        </classes>
+    </test>
+    <test name="Geolocation Builder test">
+        <classes>
+            <class name="com.lava.geolocationpage.GeoLocationTest"/>
+        </classes>
+    </test>
+
+    <test name="Engagement Builder test">
+        <classes>
+            <class name="com.lava.engagementsbuilderpage.EngagementsBuilderTest"/>
+        </classes>
+    </test>
+
+    <test name=" Rebate table">
+        <classes>
+            <class name="com.lava.rebatetable.RebateTableTest"/>
+        </classes>
+    </test>
+
+    <test name=" hold adjustment table">
+        <classes>
+            <class name="com.lava.holdadjustmenttables.HoldAdjustmentTables"/>
+        </classes>
+    </test>
+    <test name="Moments Statistics">
+        <classes>
+            <class name="com.lava.momentsStatisticsBackend_Age_Tier_Gender_Ethnic.cardoutTriggerStatisticsTest"/>
+        </classes>
+    </test>
+    <test name="CMS Test">
+        <classes>
+            <class name="com.lava.cms.cmsMediaTest"/>
+        </classes>
+    </test>
+
+
+
+</suite>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1500968715098" stop="1500968860839" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Regression suite : Create Profile and Engagements in Moment Creation page</name>
+    <title>Regression suite : Create Profile and Engagements in Moment Creation page</title>
+    <test-cases>
+        <test-case start="1500968715254" stop="1500968860700" status="passed">
+            <name>createProfileAndEngagementsInMoments[Presence,Enter/exit Area,Enter,Virtual,Everyone,Every Customer,GENERAL,Always True,Mobile in app notification,test a mobile]</name>
+            <title>Create Moments for Area</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testId" value="TMS-3"/>
+                <label name="host" value="Susmitha-Mac-mini.local"/>
+                <label name="thread" value="3841@Susmitha-Mac-mini.local.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

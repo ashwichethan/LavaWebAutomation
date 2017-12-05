@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1510293249854" stop="1510293309736" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Regression suite : Home page validation</name>
+    <title>Regression suite : Home page validation</title>
+    <test-cases>
+        <test-case start="1510293249855" stop="1510293269777" status="passed">
+            <name>homePageElements</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Srinivas.local"/>
+                <label name="thread" value="951@Srinivas.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1510293270168" stop="1510293277597" status="passed">
+            <name>homePageVisitDraftedMomentsPage</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Srinivas.local"/>
+                <label name="thread" value="951@Srinivas.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1510293278051" stop="1510293286009" status="passed">
+            <name>homePageVisitLiveMomentsPage</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Srinivas.local"/>
+                <label name="thread" value="951@Srinivas.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1510293286337" stop="1510293309368" status="passed">
+            <name>homePageVisitSubmitMomentsPage</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Srinivas.local"/>
+                <label name="thread" value="951@Srinivas.local.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
