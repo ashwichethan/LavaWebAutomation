@@ -2,14 +2,14 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Regression suite" verbose="10">
 
-    <listeners>
-        <listener class-name="com.lava.base.TestListener"></listener>
-    </listeners>
-    <test name="Launch Website">
-        <classes>
-            <class name="com.lava.GeneralSetup"/>
-        </classes>
-    </test>
+    <!--<listeners>-->
+        <!--<listener class-name="com.lava.base.TestListener"></listener>-->
+    <!--</listeners>-->
+    <!--<test name="Launch Website">-->
+        <!--<classes>-->
+            <!--<class name="com.lava.GeneralSetup"/>-->
+        <!--</classes>-->
+    <!--</test>-->
     <test name="Login into Dashboard">
         <classes>
             <class name="com.lava.loginpage.LoginPageTest"/>
